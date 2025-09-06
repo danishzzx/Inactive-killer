@@ -14,6 +14,6 @@
 ## 📦 Installation
 1. Clone the repository
 2. mvn clean package
-3.Navigate to the target directory.
-4.Upload the generated .jar file to your server’s plugins/ folder.
-5.Restart your server.
+3. Navigate to the target directory.
+4. Upload the generated .jar file to your server’s plugins/ folder.
+5. Restart your server.
