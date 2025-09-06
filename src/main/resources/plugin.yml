@@ -1,0 +1,12 @@
+name: InactiveKiller
+version: 1.0.0
+main: com.danish.inactivekiller.InactiveKillerPlugin
+api-version: '1.13'
+authors:
+  - danish
+description: Stops the server after a configurable period with no online players.
+website: https://example.com/inactive-killer
+load: POSTWORLD
+folia-supported: true
+
+

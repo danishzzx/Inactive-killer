@@ -1,0 +1,9 @@
+# InactiveKiller configuration
+
+# Stop the server if it has no online players for this many seconds
+inactivity-seconds: 60
+
+# How often to check inactivity (in server ticks). 20 ticks = 1 second.
+check-interval-ticks: 20
+
+
